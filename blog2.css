@@ -1,0 +1,19 @@
+body {
+    font-family: Arial; padding: 20px;
+    background:mediumaquamarine;
+    }
+    .header { padding: 5px; font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif; text-align: center;
+    background: lightblue;
+    }
+    .card {
+    background-color: lavender; padding: 10px;
+    margin-top: 20px;
+    }
+    .row:after { content: ""; display: table; clear: both;
+    }
+    .footer { padding: 1px;
+    text-align: center;
+    background: lightblue; margin-top: 20px;
+    }
+    
